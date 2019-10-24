@@ -1,0 +1,26 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "jsdelivr",
+      "library": "react-bootstrap4-form-validation@1.0.10",
+      "destination": "ClientApp/node_modules/react-bootstrap4-form-validation/"
+    },
+    {
+      "provider": "unpkg",
+      "library": "react-text-mask@5.4.3",
+      "destination": "ClientApp/node_modules/react-text-mask/",
+      "files": [
+        "dist/reactTextMask.js",
+        "dist/stats.json",
+        "src/reactTextMask.js",
+        "LICENSE",
+        "package.json",
+        "README.md",
+        "publish.sh",
+        "webpack.buildReactIntegration.js"
+      ]
+    }
+  ]
+}
