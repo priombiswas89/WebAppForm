@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{F72246D9-5752-4D96-A98F-4D33375C4E7B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebAppForm/ClientApp/src/components/AddUser.js">
+    <Files>
+      <File FileName="WebAppForm/ClientApp/src/components/AddUser.js" Line="30" Column="21" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebAppForm" expanded="True">
+            <Node name="WebAppForm" expanded="True">
+              <Node name="ClientApp" expanded="True">
+                <Node name="src" expanded="True">
+                  <Node name="components" expanded="True">
+                    <Node name="AddUser.js" selected="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebAppForm PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
