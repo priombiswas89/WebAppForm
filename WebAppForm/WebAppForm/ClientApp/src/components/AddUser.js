@@ -29,7 +29,8 @@ export class AddUser extends Component {
         return <div>
             <h1>{this.state.title}</h1>
             <hr />
-            <h2>{this.state.title}</h1>
+            <h2>{this.state.title}</h2>
+            <h3>{this.state.title}</h3>
             {contents}
         </div>;
     }
